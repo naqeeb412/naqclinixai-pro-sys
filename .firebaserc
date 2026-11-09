@@ -1,0 +1,11 @@
+{
+  "projects": { "default": "naqclinixai" },
+  "targets": {
+    "naqclinixai": {
+      "hosting": {
+        "landing": ["naqclinixai-landing"],
+        "app":     ["naqclinixai-app"]
+      }
+    }
+  }
+}
